@@ -1,0 +1,2 @@
+C:\Users\Bre\MathAndCamparisonOperationAssignment\MathAndCamparisonOperationAssignment\obj\Debug\MathAndCamparisonOperationAssignment.csproj.AssemblyReference.cache
+C:\Users\Bre\MathAndCamparisonOperationAssignment\MathAndCamparisonOperationAssignment\obj\Debug\MathAndCamparisonOperationAssignment.csproj.CoreCompileInputs.cache
