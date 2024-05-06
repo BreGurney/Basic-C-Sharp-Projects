@@ -17,7 +17,7 @@ namespace MainMethodAssignment
             try
             {
                 int num2 = Convert.ToInt32(Console.ReadLine());
-                int resilts = mathOp.MathOperation(num1, num2);
+                int results = mathOp.MathOperation(num1, num2);
                 Console.WriteLine(num1 + " x " + num2 + " = " + result);
             }
             catch
