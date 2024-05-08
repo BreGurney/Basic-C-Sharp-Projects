@@ -21,6 +21,8 @@ namespace Working
         {
             throw new NotImplementedException();
         }
+        Console.WriteLine("Employee has Quit.");
+        Console.ReadLine();
 
     }
 }
