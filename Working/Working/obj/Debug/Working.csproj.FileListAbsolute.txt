@@ -1,0 +1,7 @@
+C:\Users\Bre\Working\Working\obj\Debug\Working.csproj.AssemblyReference.cache
+C:\Users\Bre\Working\Working\obj\Debug\Working.csproj.CoreCompileInputs.cache
+C:\Users\Bre\Working\Working\bin\Debug\Working.exe.config
+C:\Users\Bre\Working\Working\bin\Debug\Working.exe
+C:\Users\Bre\Working\Working\bin\Debug\Working.pdb
+C:\Users\Bre\Working\Working\obj\Debug\Working.exe
+C:\Users\Bre\Working\Working\obj\Debug\Working.pdb
