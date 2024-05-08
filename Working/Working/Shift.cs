@@ -19,10 +19,11 @@ namespace Working
         }
         public void Quit(Employee emplpyees)
         {
-            throw new NotImplementedException();
+
+           Console.WriteLine("Employee has Quit.");
+           Console.ReadLine();
         }
-        Console.WriteLine("Employee has Quit.");
-        Console.ReadLine();
+        
 
     }
 }
