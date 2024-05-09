@@ -1,7 +1,0 @@
-C:\Users\Bre\Operator Assignment\Operator Assignment\obj\Debug\Operator Assignment.csproj.AssemblyReference.cache
-C:\Users\Bre\Operator Assignment\Operator Assignment\obj\Debug\Operator Assignment.csproj.CoreCompileInputs.cache
-C:\Users\Bre\Operator Assignment\Operator Assignment\bin\Debug\Operator Assignment.exe.config
-C:\Users\Bre\Operator Assignment\Operator Assignment\bin\Debug\Operator Assignment.exe
-C:\Users\Bre\Operator Assignment\Operator Assignment\bin\Debug\Operator Assignment.pdb
-C:\Users\Bre\Operator Assignment\Operator Assignment\obj\Debug\Operator Assignment.exe
-C:\Users\Bre\Operator Assignment\Operator Assignment\obj\Debug\Operator Assignment.pdb
