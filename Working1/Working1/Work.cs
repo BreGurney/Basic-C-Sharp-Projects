@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Working1
 {
-    class Work : Employee //Game
+    class Work : Employee 
     {
         public new List<Employee> Employees { get; set; }
         public int EmployeesID { get; set; }
