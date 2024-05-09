@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Working1
 {
-    class Shift1 //TwentryOneGame
+    class Shift1 : Work
     {
         public static void Working()
         {
